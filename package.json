@@ -1,0 +1,19 @@
+{
+  "name": "DotDotNote",
+  "version": "1.0.0",
+  "description": "DotDotNote",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/jjlu521016/DotDotNote",
+  "keywords": [
+    "Electron",
+    "note"
+  ],
+  "author": "jjlu521016",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^7.1.5"
+  }
+}
